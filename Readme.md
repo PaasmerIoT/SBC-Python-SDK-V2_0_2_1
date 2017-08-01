@@ -2,7 +2,7 @@
 **Paasmer IoT SBC-Python-SDK-V_2.0.2.1** for Single Board Computers Running Linux
 
 ## Overview
-The **Paasmer SBC-Python-SDK-V_2.0.2.1** for **Single Board Computers (SBC)** like Raspberry-PI, Banana-PI, Orange-PI, Odroidxu4 and BeagleBone is a collection of source files that enables you to connect to the Paasmer IoT Platform. It includes the transport client for **MQTT** with **TLS** support.  It is distributed in source form and intended to be built into customer firmware along with application code, other libraries and RTOS.
+The **Paasmer SBC-Python-SDK-V_2.0.2.1** for **Single Board Computers (SBC)** like Raspberry-PI, Banana-PI, Orange-PI, Odroidxu4 and BeagleBone is a collection of source files that enables you to connect to the Paasmer IoT Platform. It includes the transport client for **MQTT** with **TLS** support.  It is distributed in source form and intended to be built into customer firmware along with application code, other libraries and RTOS.This SDK is equipped with the Zigbee support along with Board GPIO's.
 
 ## Features
 The **SBC-Python-SDK-V_2.0.2.1** simplifies access to the Pub/Sub functionality of the **Paasmer IoT** broker via **MQTT**.The SDK has been tested to work on the **Raspberry PI 3, Banana-PI, Orange-PI, Odroidxu4 and BeagleBone**.
