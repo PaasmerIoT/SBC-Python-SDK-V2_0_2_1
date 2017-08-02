@@ -204,7 +204,7 @@ while True:
 			jsonstring = jsonstring + "\"messagecount\": \"%d\",\"paasmerid\": \"%s\",\"username\":\"%s\",\"devicename\":\"%s\",\"devicetype\":\"SBC\"}" % (loopCount,MyMac,UserName,DeviceName)
 			time.sleep(5)
 			
-			myAWSIoTMQTTClient.publish("paasmer_sensor",jsonstring, 1)
+			myAWSIoTMQTTClient.publish("paasmerv2_device_online",jsonstring, 1)
 		
 		
 		
