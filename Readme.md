@@ -19,7 +19,7 @@ Registration on the [PAASMER portal](http://developers.paasmer.co) is necessary 
 ##  Optional Requisites
 In order to use the Zigbee the following is required.
 
-* Raspberry PI 3 Model B Board.
+* Single Board Computer
 
 * Arduino UNO Board.
 
