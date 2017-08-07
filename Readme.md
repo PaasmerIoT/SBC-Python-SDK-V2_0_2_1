@@ -40,7 +40,7 @@ $ cd SBC-Python-SDK-V_2.0.2.1
 
 ## ZigBee Configuration (Optional)
 
-To establish, the ZigBee protocol the 2 ZigBee modules are to configured as a Coordinator and a Router. The ZigBee at the RaspberryPi side is to be configured as a Coordinator and the one at the Arduino side as a Router. Use XCTU software to Configure the ZigBee's as explained in the `ZigBEE_config.pdf` file.
+To establish, the ZigBee protocol the 2 ZigBee modules are to configured as a Coordinator and a Router. The ZigBee at the Single Board Computer side is to be configured as a Coordinator and the one at the Arduino side as a Router. Use XCTU software to Configure the ZigBee's as explained in the `ZigBEE_config.pdf` file.
 
 The installation part is to be done in two parts, like
 
