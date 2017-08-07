@@ -64,7 +64,7 @@ The installation part is to be done in two parts, like
 
 * Connect the Arduino UNO board to your system, open the Arduino IDE and click on the `TOOLS` icon, select the `Board` as **Arduino/Genuino UNO** and select the port in which the board is connected in the `Port` option. 
 
-* Also edit the `Config.h` in the Arduino Sketch similar to our `config.py` file in RaspberryPi. The code sample is as below,
+* Also edit the `Config.h` in the Arduino Sketch similar to our `config.py` file in Single Board Computer. The code sample is as below,
 
 ```
 #define devicename "Zigbee" //your device name
@@ -133,7 +133,7 @@ ser = 0  # if you are using GPIO pins only. Comment this line if ZigBee intefaci
 
 ```
 
-* Connect the ZigBee Coordinator device to the RaspberryPi through the USB2.0 cable. (Only is ZigBee is used)
+* Connect the ZigBee Coordinator device to the Single Board Computer through the USB2.0 cable. (Only is ZigBee is used)
 
 * Go to the diectory below.
 
