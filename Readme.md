@@ -46,7 +46,7 @@ The installation part is to be done in two parts, like
 
 * Arduino  
 
-* Raspberry 
+* Single Board Computer
  
 ## Arduino 
 
@@ -81,7 +81,7 @@ int feedpin[]={2,4,5,6,32,8};
 ```
 * Save and Run the code in Arduino UNO.
 
-## Raspberry PI Installation
+## Single Board Computer Installation
 
 
 * To connect the device to Paasmer IoT Platform, the following steps need to be performed.
